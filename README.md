@@ -30,3 +30,4 @@ Projenin teknik verimliliğini ve model başarısını gösteren güncel metrikl
 ## 📱 Projeden Görüntüler
 
 ### Yapay Zeka Destekli Analiz
+![Streamlit Dashboard Önizlemesi](panel.png)
